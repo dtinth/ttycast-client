@@ -1,0 +1,8 @@
+{
+  "name": "ttycast-client"
+, "version": "0.1.0"
+, "main": ["./display-buffer.js", "./ttycast.css", "./colors.js"]
+, "dependencies": {
+    "dtinth/screen-buffer": "~0.1.2"
+  }
+}
