@@ -21,6 +21,6 @@
     "tests"
   ],
   "dependencies": {
-    "screen-buffer": "dtinth/screen-buffer#~0.3.2"
+    "screen-buffer": "dtinth/screen-buffer#~0.4.0"
   }
 }
